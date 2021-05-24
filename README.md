@@ -16,4 +16,4 @@ The more detailed description of the analysis can be found in this [Medium blogp
 
 ## Libraries
 
-To successfully reproduce my script on your machine, the following packages should be installed: pandas, nltk, numpy, sklearn, imblearn
+To successfully reproduce my script on your machine, the following packages should be installed: pandas, nltk, numpy, sklearn, imblearn, seaborn, tqdm, lightgbm
